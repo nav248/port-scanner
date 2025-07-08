@@ -26,10 +26,10 @@ Technologies Used:
 4.argparse module: For parsing command-line arguments.
 
 How It Works:
+
 The program creates TCP socket connections to ports in the specified range on the target host. If the connection is successful, the port is open. The results are printed directly to the terminal.
 
 How to Run:
-You can run this script using VS Code Terminal or Command Prompt.
 
 Run with default (localhost):
 
