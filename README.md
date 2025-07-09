@@ -1,6 +1,7 @@
 Port Scanner using Python
 
 Overview:
+
 The Port Scanner is a command-line tool developed in Python that allows users to scan ports on a given IP address or domain name. It helps identify open ports, which can be useful for basic network vulnerability assessments.
 
 Features:
@@ -17,13 +18,13 @@ Features:
 
 Technologies Used:
 
-1.Python: Main programming language.
+1.Python - Main programming language.
 
-2.socket module: Used for making network connections.
+2.socket module - Used for making network connections.
 
-3.datetime module: For displaying the current time.
+3.datetime module - For displaying the current time.
 
-4.argparse module: For parsing command-line arguments.
+4.argparse module - For parsing command-line arguments.
 
 How It Works:
 
